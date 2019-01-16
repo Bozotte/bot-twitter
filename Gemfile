@@ -14,3 +14,4 @@ gem 'rubocop', '~> 0.57.2'
 gem 'pry' #On peut appeler PRY dans notre programme en
 #faisant : require 'pry'
 gem 'dotenv'
+gem 'twitter'
